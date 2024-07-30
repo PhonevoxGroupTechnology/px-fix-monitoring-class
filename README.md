@@ -20,7 +20,7 @@ Isso é necessário pois as gravações *as vezes* são salvas com diretórios r
 # Instalação
 
 ```sh
-git clone https://github.com/adriankubinyete/px-fix-monitoring-class.git
+git clone https://github.com/PhonevoxGroupTechnology/px-fix-monitoring-class.git
 cd px-fix-monitoring-class
 chmod +x install.sh
 ./install.sh
