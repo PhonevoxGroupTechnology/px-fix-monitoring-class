@@ -1,4 +1,4 @@
-# Phonevox FIX: paloSantoMonitoring.class.php Issabel4 (px-fix-monitoring-class)
+# Issabel4 Fix paloSantoMonitoring.class.php
 
 **pt-BR**: Script para a correção da "monitoring.class.php" do Issabel4.<br>
 **en-US**: Script to fix "monitoring.class.php" in Issabel4.
@@ -20,8 +20,8 @@ Isso é necessário pois as gravações *as vezes* são salvas com diretórios r
 # Instalação
 
 ```sh
-git clone https://github.com/PhonevoxGroupTechnology/px-fix-monitoring-class.git
-cd px-fix-monitoring-class
+git clone https://github.com/phonevox/fix-monitoring-class.git
+cd fix-monitoring-class
 chmod +x install.sh
 ./install.sh
 ```
